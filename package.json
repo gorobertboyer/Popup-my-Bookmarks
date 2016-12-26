@@ -57,7 +57,7 @@
     "gulp-filter": "^4.0.0",
     "gulp-image-grayscale": "^2.0.1",
     "gulp-plumber": "^1.1.0",
-    "gulp-util": "^3.0.7",
+    "gulp-util": "^3.0.8",
     "gulp-zip": "^3.2.0",
     "html-webpack-plugin": "^2.22.0",
     "merge-and-concat": "^1.0.2",
